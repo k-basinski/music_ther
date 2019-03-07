@@ -2,6 +2,8 @@
 
 This is the website for the course _Music Therapy and Psychology of Music_ taught in the year 2018/19.
 
+Reach me at [k.basinski@gumed.edu.pl](mailto:k.basinski@gumed.edu.pl)
+
 ## Dates, times, rooms
 
 Class is on Mondays, 2:45pm - 5pm, February 18th through March 25th 2019.
