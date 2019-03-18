@@ -19,7 +19,7 @@ To recieve credit you need to prepare presentations in groups. The topics are:
 3. Orff Music Therapy
 3. ~~Neurologic Music Therapy for motor functioning~~
 3. ~~Neurologic Music Therapy for language~~
-3. Music Therapy in Psychiatric Patients, Geriatric Populations and Children
+3. ~~Music Therapy in Psychiatric Patients, Geriatric Populations and Children~~
 3. Music Therapy in Alzheimers
 3. ~~Enriched Acoustic Environment and tinnitus~~
 
