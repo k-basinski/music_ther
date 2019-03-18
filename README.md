@@ -21,7 +21,7 @@ To recieve credit you need to prepare presentations in groups. The topics are:
 3. ~~Neurologic Music Therapy for language~~
 3. Music Therapy in Psychiatric Patients, Geriatric Populations and Children
 3. Music Therapy in Alzheimers
-3. Enriched Acoustic Environment and tinnitus
+3. ~~Enriched Acoustic Environment and tinnitus~~
 
 The groups should be 2-4 people. Please write me an email with the names of people in your group and your topic if you have not done so already!
 
